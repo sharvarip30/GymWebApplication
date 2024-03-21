@@ -1,1 +1,1 @@
-# GymWebApplication
+FlexFit is a gym web application landing page which provides information about the gym , its services , plans , pricing , trainers and features, where customer can checkout the details of gym and contact us! 
